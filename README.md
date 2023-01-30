@@ -1,19 +1,23 @@
-# NextJS Structure
+### BoraCodar - Desafio 04 - Chat
 
-This project provides a basic structure for building web applications using Next.js, TypeScript, ESLint and Styled Components.
+Este projeto foi desenvolvido como desafio proposto pela Rocketseat. O objetivo foi criar uma interface de chat estilo WhatsApp, seguindo o layout disponibilizado pelo Figma.
 
-## Getting Started
+### Acesso à aplicação
 
-1. Clone the repository: `git clone https://github.com/mariopaglia/nextjs-structure.git`
-2. Install dependencies: `npm install` or `yarn install`
-3. Start the development server: `npm run dev` or `yarn dev`
-4. Build the project for production: `npm run build` or `yarn build`
-5. Start the production server: `npm start` or `yarn start`
+A aplicação está disponível online no seguinte link: [https://boracodar-chat.vercel.app/](https://boracodar-chat.vercel.app/)
 
-## Features
+### Enunciado do desafio
 
-- Next.js for server-rendered React applications
-- TypeScript for static type checking
-- Styled Components for styling
-- ESLint and Prettier for code formatting
-- Automatic code linting and formatting on commit with lint-staged and husky
+Desenvolver um chat mobile/desktop que possa ser responsivo. Opcionalmente, adicionar animações e implementar funcionalidade de chat.
+
+![https://i.imgur.com/PrfOYOY.png](https://i.imgur.com/PrfOYOY.png)
+
+### Resultado final
+
+**Desktop**
+
+![https://i.imgur.com/xMB2Vhw.png](https://i.imgur.com/xMB2Vhw.png)
+
+**Mobile**
+
+![https://i.imgur.com/K0GNrqJ.png](https://i.imgur.com/K0GNrqJ.png)
